@@ -1,0 +1,4 @@
+SMTP_HOST=sandbox.smtp.mailtrap.io
+SMTP_PORT=2525
+SMTP_USER=5143d2151813cb
+SMTP_PASS=5aaf999a1f94ce
